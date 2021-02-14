@@ -16,6 +16,7 @@ Data Description
 
 The file is a comma separated value (csv) file – each field is separated by a comma. The first field is the utility company, the second is the customer name, the third is the year, fourth is the month, fifth is the day, i.e. date  (in YYYY, MM, DD format), the sixth field is the amount of the bill, while the last field is a flag indicating whether this is a credit or debit against the bill.
  
+
 Reports/Queries
 1.	I will provide a way for a user to enter utility bill details: utility company, name of the customer, date of the bill, the amount, and a flag indicating whether the bill is debit or credit.
 2.	I will start my code with the initial results.csv above
