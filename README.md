@@ -1,5 +1,5 @@
-# Utility_bills
-Program for a utility provider to track customer information.
+
+Command Line Program and user interface for a utility provider to track customer information.
 
 Dublin Bill Management Company is a start-up bill management company, i.e., they offer tracking for electricing, gas, and utility bills.
 
